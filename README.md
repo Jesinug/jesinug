@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<h2> I'm Jessie Nugnez 🙂 </h2>
+<h2> I'm Jessie Nugnez </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>A Junior Software Developer, born in Argentina, living in Barcelona...<br>Just another <a href="https://www.ironhack.com">ironhacker</a> in the world, looking for great chances to learn and grow.
 </em></p>
