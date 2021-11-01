@@ -6,7 +6,7 @@ Just another forever-aprentice in the world, looking for great chances to learn 
 
 [![Linkedin: Jesinug](https://img.shields.io/badge/-Jesinug-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jesicanugnez//)](https://www.linkedin.com/in/jesicanugnez/)
 [![GitHub Jesinug](https://img.shields.io/github/followers/jesinug?label=follow&style=social)](https://github.com/Jesinug)
-[![Twitter Jesinug](https://img.shields.io/gtwitter/followers/jesinug?label=follow&style=social)](https://twitter.com/Jesinug)
+[![Twitter Jesinug](https://img.shields.io/twitter/followers/jesinug)](https://twitter.com/Jesinug)
 
 
 ### A little more about me...  
