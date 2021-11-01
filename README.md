@@ -5,7 +5,7 @@ Just another forever-aprentice in the world, looking for great chances to learn 
 </em></p>
 
 [![Linkedin: Jesinug](https://img.shields.io/badge/-Jesinug-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jesicanugnez//)](https://www.linkedin.com/in/jesicanugnez/)
-[![Twitter Jesinug](https://twitter.com/Jesinug)](https://twitter.com/Jesinug)
+[![Twitter Jesinug](https://img.shields.io/badge/-Jesinug-blue?style=flat-square&logo=Twittern&logoColor=white&link=https://https://twitter.com/Jesinug//)](https://twitter.com/Jesinug)
 <a class="twitter-timeline" href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw">Tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
