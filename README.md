@@ -5,7 +5,7 @@ Just another forever-aprentice in the world, looking for great chances to learn 
 </em></p>
 
 [![Linkedin: Jesinug](https://img.shields.io/badge/-Jesinug-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jesicanugnez//)](https://www.linkedin.com/in/jesicanugnez/)
-[![Twitter Jesinug](https://img.shields.io/badge/-Jesinug-blue?style=flat-square&logo=Twittern&logoColor=white&link=https://https://twitter.com/Jesinug//)](https://twitter.com/Jesinug)
+[![Twitter Jesinug](https://img.shields.io/badge/-Jesinug-white?style=flat-square&logo=Twittern&logoColor=white&link=https://https://twitter.com/Jesinug//)](https://twitter.com/Jesinug)
 
 
 
