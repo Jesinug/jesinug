@@ -5,7 +5,6 @@ Just another forever-aprentice in the world, looking for great chances to learn 
 </em></p>
 
 [![Linkedin: Jesinug](https://img.shields.io/badge/-Jesinug-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jesicanugnez//)](https://www.linkedin.com/in/jesicanugnez/)
-[![GitHub Jesinug](√)](https://github.com/Jesinug)
 [![Twitter Jesinug](https://img.shields.io/twitter/url?style=social)](https://twitter.com/Jesinug)
 
 
