@@ -14,7 +14,7 @@ Just another forever-aprentice in the world, looking for great chances to learn 
 ```javascript
 const jesi = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS],
+  code: [HTML, CSS, Javascript],
   tools: [React, Node, Bootstrap, Sass, Styled-Components],                    },
   challenge: "I'm currently surfing the wave in SEAT:CODE -and enjoying it-"
 }
