@@ -1,4 +1,4 @@
-# Hi 👋 I'm Jessie Nugnez <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+# Hi 👋 I'm Jessie Nugnez
 
 <p><em>A Junior Frontend Developer, born in Argentina, living in Barcelona...<br>
 Just another forever-aprentice in the world, looking for great chances to learn and grow.
