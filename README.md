@@ -1,6 +1,6 @@
 # Hi 👋 I'm Jessie Nugnez
 
-<p><em>A Junior Frontend Developer, born in Argentina, living in Barcelona...<br>
+<p><em>Frontend Developer, born in Argentina, currently living in Barcelona...<br>
 Just another forever-aprentice in the world, looking for great chances to learn and grow.
 </em></p>
 
@@ -16,7 +16,7 @@ const jesi = {
   pronouns: "she" | "her",
   code: [HTML, CSS, Javascript],
   tools: [React, Node, Bootstrap, Sass, Styled-Components],                    },
-  challenge: "I'm currently surfing the wave in SEAT:CODE -and enjoying it-"
+  challenge: "I'm currently surfing the wave as a self-learner"
 }
 ```
 - 💬 Ask me about diversity and inclusion ;)
